@@ -1,6 +1,11 @@
 # vuenews
 
-> A Vue.js project
+> A Vue.js project by CodingTheSmartWay
+
+Another enjoyable Tutorial that I successfully understood and completed
+
+The Tutorial Link is below
+https://www.youtube.com/watch?v=p-7Zi9xYt2M
 
 ## Build Setup
 
